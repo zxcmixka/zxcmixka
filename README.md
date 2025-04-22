@@ -21,7 +21,7 @@ I'm a developer with an interest к Ts, Js, Node.js, React.js .
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcmixka&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
-![Snake animation](https://github.com/zxcmixka/zxcmixka/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zxcmixka/zxcmixka/blob/main/output/github-contribution-grid-snake.svg)
 
 
 ## 💻 My projects:
