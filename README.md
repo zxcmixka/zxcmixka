@@ -1,32 +1,31 @@
 ## Hi there 👋
 
-I'm a developer with an interest к [Ts, Js, Node.js, React.js] .
+I'm a developer with an interest к Ts, Js, Node.js, React.js .
 
-![Привет, я GitHub User](https://img.shields.io/badge/Hello-%20GitHub-blue?style=for-the-badge)
+![Hi, I'm GitHub User](https://img.shields.io/badge/Hello-%20GitHub-blue?style=for-the-badge)
 
-## 🚀 О себе:
-- 🌱 I'm currently studying development at the Node.js].
-- 🤔 Мой основной интерес — это [вставьте интерес или проекты].
-- ⚡ Интересуюсь [].
+## 🚀 About me:
+- 🌱 I'm currently studying development at the Node.js.
+- 🤔 My primary interest is programming.
+- ⚡ I'm interested Games and Music.
 
-## 🛠️ Мой стек технологий:
+## 🛠️ My technology stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=fff)
 
-## 📈 Моя статистика:
+## 📈 My statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcmixka&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-## 💻 Мои проекты:
-- [Проект 1](https://github.com/username/project1) — Описание проекта 1
-- [Проект 2](https://github.com/username/project2) — Описание проекта 2
-- [Проект 3](https://github.com/username/project3) — Описание проекта 3
+## 💻 My projects:
+- [1](https://github.com/zxcmixka/web-shop) — web shop 
+- [2](https://github.com/harukee-dev/bmw-dealer-website) — sale cars
+- [3](https://github.com/harukee-dev/pokemon_library) — pokemon library
 
-## 📫 Как со мной связаться:
-- LinkedIn: [Ваша ссылка](https://www.linkedin.com/in/your-linkedin)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## 📫 How to contact me:
+- Discord: [link](https://discord.gg/MTJQvTGwyN)
 
-## 😄 Псевдоним:
-- **Кодить как волшебник**
+
+## 😄 Alias:
+- **Куча тёлок разрывают личку Они так хотят встретить таланта лично**
