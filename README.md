@@ -5,7 +5,7 @@ I'm a developer with an interest к [Ts, Js, Node.js, React.js] .
 ![Привет, я GitHub User](https://img.shields.io/badge/Hello-%20GitHub-blue?style=for-the-badge)
 
 ## 🚀 О себе:
-- 🌱 В настоящее время я учусь разработке на [Node.js].
+- 🌱 I'm currently studying development at the Node.js].
 - 🤔 Мой основной интерес — это [вставьте интерес или проекты].
 - ⚡ Интересуюсь [].
 
