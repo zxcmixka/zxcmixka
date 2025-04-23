@@ -4,7 +4,7 @@ I'm a developer with an interest к Ts, Js, Node.js, React.js .
 
 ![Hi, I'm GitHub User](https://img.shields.io/badge/Hello-%20GitHub-blue?style=for-the-badge)
 
-![Contribution to projectsContribution to projects](https://github-readme-streak-stats.herokuapp.com/?user=zxcmixka)
+![Contribution to projects](https://github-readme-streak-stats.herokuapp.com/?user=zxcmixka)
 
 ## 🚀 About me:
 - 🌱 I'm currently studying development at the Node.js.
