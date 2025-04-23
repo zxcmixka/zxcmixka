@@ -4,7 +4,8 @@ I'm a developer with an interest к Ts, Js, Node.js, React.js .
 
 ![Hi, I'm GitHub User](https://img.shields.io/badge/Hello-%20GitHub-blue?style=for-the-badge)
 
-![Contribution to projects](https://github-readme-streak-stats.herokuapp.com/?user=zxcmixka)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcmixka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About me:
 - 🌱 I'm currently studying development at the Node.js.
@@ -20,7 +21,7 @@ I'm a developer with an interest к Ts, Js, Node.js, React.js .
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcmixka&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zxcmixka&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Snake animation](https://github.com/zxcmixka/zxcmixka/blob/main/output/github-contribution-grid-snake.svg)
 
 
