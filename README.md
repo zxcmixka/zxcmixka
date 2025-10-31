@@ -28,10 +28,6 @@ I'm a developer with an interest к Ts, Js, Node.js, React.js .
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcmixka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zxcmixka&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Snake animation](https://github.com/zxcmixka/zxcmixka/blob/main/output/github-contribution-grid-snake.svg)
-
 
 ## 💻 My projects:
 - [web shop ](https://github.com/zxcmixka/web-shop)
